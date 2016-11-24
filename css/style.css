@@ -1,0 +1,283 @@
+*{
+   padding: 0;
+	outline: none;
+	margin: 0;
+}
+
+
+
+html, body {
+    overflow-x: hidden;
+    height: 100%;
+
+}
+body{height: 100%;
+	font: 14px/18px 'Times New Roman', Times, sans-serif;
+	background-color: #FFF;
+}
+ol, ul{list-style: none;}
+
+a, a:hover{text-decoration: none;}
+
+
+.clearfix:before,
+.clearfix:after{
+	content: " ";
+	display: table;
+}
+
+.clearfix{ clear: both;}
+.left{float: left;}
+.right{float: right;}
+
+
+
+
+.logo{
+	float: left;
+	margin-top: 53px;
+}
+.logo img {
+	margin-left: 20px;
+	margin-bottom: 7px;
+	
+}
+.logo a{ font-size: 24px; font-weight: 900; color: white;}
+#numb {font-size: 14px; font-weight: 400;margin-left: 7px;}
+
+.menu{
+	float: right;
+	margin-top: 40px;
+}
+
+.menu li {
+	float: left;
+	margin-right: 40px;
+}
+
+.menu li:last-child{
+	margin-right: 0;
+}
+
+.btn-flat{
+	margin-right: 10px;
+	
+}
+
+
+.menu a{
+	text-transform:  uppercase;
+	font: 14px Arial, sans-serif;
+	color: #fff;
+}
+
+#act{ font-size: 15px; font-weight: 700;}
+
+
+
+
+
+
+
+
+
+
+.wrapper{
+	height: 500px;
+	background: #222 url(../img/back2.jpg) no-repeat center bottom;
+	 width: 100%;
+    background-attachment: fixed;
+	background-size: cover;
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+}
+
+
+.fontpage{
+	width: 100%;
+	margin-top: 210px;
+}
+
+
+
+
+.fontpage h1 {
+	color: white;
+}
+
+@media all and (min-width: 200px) {
+  
+  .fontpage h1 {
+    font-size: 35px;
+  }
+	.menu{
+		margin-top: 5px;
+	}
+}
+@media all and (min-width: 300px) {
+  
+  .fontpage h1 {
+    font-size: 40px;
+  }
+	.menu{
+		margin-top: 10px;
+	}
+}
+@media all and (min-width: 500px) {
+  
+  .fontpage h1 {
+    font-size: 55px;
+  }
+}
+@media all and (min-width: 600px) {
+  
+  .fontpage h1 {
+    font-size: 55px;
+  }
+}
+@media all and (min-width: 700px) {
+  
+  .fontpage h1 {
+    font-size: 60px;
+  }
+	.menu{
+		margin-top: 40px;
+	}
+}
+@media all and (min-width: 800px) {
+  .fontpage h1 {
+    font-size: 65px;
+  }
+	.menu{
+		margin-top: 40px;
+	}
+}
+@media all and (min-width: 960px) {
+  .fontpage h1 {
+    font-size: 70px;
+  }
+	.menu{
+		margin-top: 40px;
+	}
+}
+
+
+
+
+
+
+
+
+.fontpage p{
+	font-size: 18px;
+	color: white;
+}
+
+.btn-outline-success {
+	background-color: #6fb048;
+	color: white;
+	font-weight: 600;
+	height: 50px;
+	width: 175px;
+}
+
+
+
+.secondPart{
+	width: 100%;
+	height: auto;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
+.secondPart h1{ color:#696969;}
+.secondPart p {font-size: 18px; color:#808080;}
+
+
+.logoSectTw{
+	
+	margin-top: 70px;
+} 
+
+.secondPart h3{
+	color:#696969;
+	font-size: 22px;
+	font-weight: 600;
+}
+.secondPart p{
+	font-size: 18px; color:#808080;
+	
+}
+
+
+.ThreePart{
+	margin-top: 150px;
+	text-align: left;
+	margin-bottom: 50px;
+	
+}
+
+
+
+.ThreePart h5{
+	display: inline-block;
+	font-size: 16px;
+	font-weight: 600;
+	 color:#696969;
+	margin-left: 7px;
+	
+}
+
+
+
+
+.FourPart {
+	
+	background-color: #eef1ec;
+	height: auto;
+	text-align: center;
+	
+} 
+
+.FourPart h1{
+	margin-top: 100px;
+	color:#696969;
+	font-size: 50px; 
+}
+.FourPart p{
+	
+	font-size: 18px; color:#808080;
+	margin-bottom: 30px;
+	margin-bottom: 100px;
+	
+}
+
+.FourPart h5{font-size: 16px;
+	color:#696969;
+	font-size: 22px;
+	font-weight: 600;
+	text-align: left;
+	
+}
+
+
+.FourPart h4{
+	text-align: left;
+	font-size: 18px; color:#808080;
+	margin-bottom: 30px;
+	
+}
+
+
+
+#butTw{
+	
+	background-color: #00BFFF;
+}
+#btnn{
+	text-align: left;
+}
+
+
+
