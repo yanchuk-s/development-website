@@ -443,15 +443,16 @@ a, a:hover{text-decoration: none;}
 .footer{
 	height: auto;
 	text-align: center;
-	padding-top: 50px;
-	padding-bottom: 10px;
+	padding-top: 70px;
+	padding-bottom: 30px;
 	
 }
 .footer a{font-size: 24px; font-weight: 900; color: #696969;}
-#contact {height: 50px;width: 59px;text-align: center;}
+#contact {height: 50px;width: 59px;text-align: center; }
 .footer p{
 	padding-top: 20px;
 	font-weight: 500;
+	font-size: 15px;
 	
 }
 .contact {text-align: left;}
