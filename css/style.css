@@ -421,7 +421,7 @@ a, a:hover{text-decoration: none;}
 
 .dewnloadPart{
 	height:auto;
-	background-image: url(../img/bg.jpg);
+	background-image: url(../img/555.jpg);
 	 background-size: cover;
     background-attachment: fixed;
 	text-align:center;
@@ -440,3 +440,18 @@ a, a:hover{text-decoration: none;}
 .dewnloadPart p{
 	font-size: 18px; color:#808080;
 }
+.footer{
+	height: auto;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 10px;
+	
+}
+.footer a{font-size: 24px; font-weight: 900; color: #696969;}
+#contact {height: 50px;width: 59px;text-align: center;}
+.footer p{
+	padding-top: 20px;
+	font-weight: 500;
+	
+}
+.contact {text-align: left;}
