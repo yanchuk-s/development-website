@@ -83,7 +83,7 @@ a, a:hover{text-decoration: none;}
 
 
 .wrapper{
-	height: 500px;
+	height: auto;
 	background: #222 url(../img/back2.jpg) no-repeat center bottom;
 	 width: 100%;
     background-attachment: fixed;
@@ -91,6 +91,7 @@ a, a:hover{text-decoration: none;}
 	-moz-background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
+	padding-bottom: 35px;
 }
 
 
@@ -238,6 +239,8 @@ a, a:hover{text-decoration: none;}
 	height: auto;
 	text-align: center;
 	
+	
+	
 } 
 
 .FourPart h1{
@@ -253,7 +256,7 @@ a, a:hover{text-decoration: none;}
 	
 }
 
-.FourPart h5{font-size: 16px;
+.FourPart h5{
 	color:#696969;
 	font-size: 22px;
 	font-weight: 600;
@@ -280,4 +283,160 @@ a, a:hover{text-decoration: none;}
 }
 
 
+.fivePart{
+	margin-top: 140px;
+	margin-bottom: 140px;
+	text-align: center;
+	height: auto;
+}
 
+.fivePart p{
+	text-align: left;
+	font-size: 24px; color:#808080;
+}
+
+.fivePart h5{
+	text-align: left;
+	font-size: 18px;
+	color: chocolate;
+}
+
+.fivePart h4{
+	text-align: left;
+	font-size: 18px;
+	color:#808080;
+	
+}
+
+.sixPart{
+	background-color: #eef1ec;
+	height: auto;
+	text-align: left;
+	padding-top: 140px;
+	padding-bottom: 140px;
+	padding-top: 50px;
+	
+	
+	
+}
+
+.sixPart h1{
+	color:#696969;
+	font-size: 30px; 
+	font-weight: 600;
+	
+	text-align: left;
+	
+}
+
+.sixPart p{
+	text-align: left;
+	font-size: 18px; color:#808080;
+}
+
+
+
+.sevenPart {
+	padding-top: 140px;
+	padding-bottom: 140px;
+	color:#696969;
+	font-size: 50px;
+	text-align: center;
+}
+
+.sevenPart p{
+	font-size: 18px; color:#808080;
+	padding-bottom: 70px;
+}
+
+.sevenPart h5{
+	font-size: 18px;
+	color: chocolate;
+	text-align: center;
+	padding-bottom: 30px;
+	font-weight: 600;
+}
+
+
+.sevenPart h4{
+	padding-bottom: 30px;
+	font-size: 70px;
+	color:#808080;
+	font-weight: 800;
+	padding-bottom: 10px;
+	
+}
+.sevenPart h3 {
+	font-size: 18px;
+	color: #808080;
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+
+#cost{
+	border: 1px #808080 solid;
+	padding-bottom: 40px;
+	
+}
+
+.eightPart{
+	padding-top: 30px;
+	padding-bottom: 70px;
+	height: auto;
+	text-align: center;
+}
+.zagol {
+	text-align: center;
+}
+
+.zagol h1{
+	color:#696969;
+	font-size: 60px; 
+	font-weight: 600;
+	
+}
+.zagol p{
+	font-size: 18px; color:#808080;
+	
+}
+#bol{
+	margin-top: 40px;
+}
+
+.eightPart h4{
+	font-size: 33px;
+	color: chocolate;
+	font-weight: 500;
+	
+}
+.eightPart p{
+	font-size: 18px; color:#808080;
+	
+}
+.eightPart h3{
+	font-size: 20px;
+	font-weight: 500;
+}
+
+.dewnloadPart{
+	height:auto;
+	background-image: url(../img/bg.jpg);
+	 background-size: cover;
+    background-attachment: fixed;
+	text-align:center;
+	width: 100%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.dewnloadPart h1{
+	color:#696969;
+	font-size: 30px; 
+	font-weight: 600;
+	
+}
+
+.dewnloadPart p{
+	font-size: 18px; color:#808080;
+}
