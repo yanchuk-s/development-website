@@ -19,16 +19,15 @@ window.onload = function() { // после загрузки страницы
 // show button
 
 	window.onscroll = function () { // при скролле показывать и прятать блок
-		if ( window.pageYOffset > 500 ) {
+		if ( window.pageYOffset > 0 ) {
 			scrollUp.style.display = 'block';
 		} else {
 			scrollUp.style.display = 'none';
 		}
 	};
 };
-
-  
     
+
 // плавний скролінг
 $(document).ready(function(){
     
